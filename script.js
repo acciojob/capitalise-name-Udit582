@@ -1,5 +1,6 @@
 //your JS code here. If required.
-let a=document.getElementById("fname");
+
 function upper(){
+	let a=document.getElementById("fname");
 	a.value=a.value.toUpperCase();
 }
